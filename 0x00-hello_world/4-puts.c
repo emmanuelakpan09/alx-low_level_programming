@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  *main - programming is a fun puzzle
- *
- *return: 0 (sucess)
+ *Return: 0
  */
 
 int main(void)
