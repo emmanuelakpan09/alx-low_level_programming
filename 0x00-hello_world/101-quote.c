@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <unistd.h>
+#include <unistd.hii>
+#include <stdlib.h>
 /**
  *main - program to print standard error
  *Return: always
