@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *main - postive or negative entry point
+ *positive_or_negative - To check numbers
+ *@i: parameter
  *Return: Always
  */
-
 void positive_or_negative(int i)
 {
 	if (i < 0)
