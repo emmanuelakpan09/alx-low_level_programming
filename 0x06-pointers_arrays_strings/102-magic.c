@@ -1,10 +1,4 @@
 #include <stdio.h>
-/**
- *main - to demostrate magic in pointers
- *in your new line of code
- *Return: 0
- */
-
 int main(void)
 {
 int n;
@@ -25,3 +19,4 @@ p = &n;
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
+
